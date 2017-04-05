@@ -1,0 +1,21 @@
+INDEX VERSION 1.127+E:\git\makesomething\.metadata\.plugins\org.eclipse.jdt.core
+2717617966.index
+65307481.index
+1147624204.index
+1138678234.index
+925927469.index
+2559331952.index
+4064848241.index
+2129593603.index
+957368050.index
+2374320685.index
+3383751384.index
+3678210530.index
+3139280083.index
+3894476144.index
+308640624.index
+2098653670.index
+2612108681.index
+3448966409.index
+4275197171.index
+818006221.index
